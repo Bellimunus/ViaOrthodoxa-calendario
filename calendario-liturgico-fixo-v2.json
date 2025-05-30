@@ -1,0 +1,32 @@
+[
+  {
+    "title": "São Beda, o Venerável",
+    "description": "Doutor da Igreja, monge e historiador anglo-saxão.",
+    "month": 5,
+    "day": 26,
+    "color": "#d4af37",
+    "roman": "#ffffff",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Beda_Venerabilis.jpg",
+    "link": "https://ocidenteortodoxo.blogspot.com/2025/05/sao-beda-o-veneravel.html"
+  },
+  {
+    "title": "Domingo de Pentecostes",
+    "description": "Descida do Espírito Santo sobre os Apóstolos.",
+    "month": 5,
+    "day": 27,
+    "color": "#228B22",
+    "roman": "#ff0000",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Pentecost_Russian_icon.png",
+    "link": "https://ocidenteortodoxo.blogspot.com/2025/05/domingo-de-pentecostes.html"
+  },
+  {
+    "title": "São Agostinho de Cantuária",
+    "description": "Primeiro arcebispo de Cantuária, evangelizador da Inglaterra.",
+    "month": 5,
+    "day": 28,
+    "color": "#ffffff",
+    "roman": "#ffffff",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Saint_Augustine_of_Canterbury.jpg",
+    "link": "https://ocidenteortodoxo.blogspot.com/2025/05/sao-agostinho-de-cantuaria.html"
+  }
+]
