@@ -41,20 +41,7 @@
     "cor_bizantina": "#FF8C00",
     "cor_romana": "#FF8C00"
   },
-  {
-    "nome": "São Cirilo de Jerusalém",
-    "data": "03-18",
-    "titulo": "Bispo e Doutor da Igreja",
-    "cor_bizantina": "#6495ED",
-    "cor_romana": "#6495ED"
-  },
-  {
-    "nome": "São João Damasceno",
-    "data": "12-04",
-    "titulo": "Monge e Doutor da Igreja",
-    "cor_bizantina": "#8A2BE2",
-    "cor_romana": "#8A2BE2"
-  },
+ 
   {
     "nome": "São Martinho de Tours",
     "data": "11-11",
@@ -139,20 +126,8 @@
     "cor_bizantina": "#800000",
     "cor_romana": "#800000"
   },
-  {
-    "nome": "Santo Atanásio de Alexandria",
-    "data": "05-02",
-    "titulo": "Patriarca e Doutor da Igreja",
-    "cor_bizantina": "#6A5ACD",
-    "cor_romana": "#6A5ACD"
-  },
-  {
-    "nome": "São Cirilo de Alexandria",
-    "data": "06-27",
-    "titulo": "Patriarca e Doutor da Igreja",
-    "cor_bizantina": "#9932CC",
-    "cor_romana": "#9932CC"
-  },
+ 
+ 
   {
     "nome": "São Pedro Crisólogo",
     "data": "07-30",
@@ -202,13 +177,7 @@
     "cor_bizantina": "#B8860B",
     "cor_romana": "#B8860B"
   },
-  {
-    "nome": "São Tertuliano",
-    "data": "02-01",
-    "titulo": "Presbítero e Apologista",
-    "cor_bizantina": "#556B2F",
-    "cor_romana": "#556B2F"
-  },
+  
   {
     "nome": "São Clemente de Roma",
     "data": "11-23",
@@ -230,13 +199,7 @@
     "cor_bizantina": "#4682B4",
     "cor_romana": "#4682B4"
   },
-  {
-    "nome": "São Máximo, o Confessor",
-    "data": "08-13",
-    "titulo": "Monge e Teólogo",
-    "cor_bizantina": "#483D8B",
-    "cor_romana": "#483D8B"
-  },
+ 
   {
     "nome": "Santo Isidoro de Sevilha",
     "data": "04-04",
@@ -272,11 +235,4 @@
     "cor_bizantina": "#DEB887",
     "cor_romana": "#DEB887"
   },
-  {
-    "nome": "São João de Damasco",
-    "data": "12-04",
-    "titulo": "Monge e Doutor da Igreja",
-    "cor_bizantina": "#483D8B",
-    "cor_romana": "#483D8B"
-  }
-]
+ 
