@@ -1,32 +1,282 @@
 [
   {
-    "title": "São Beda, o Venerável",
-    "description": "Doutor da Igreja, monge e historiador anglo-saxão.",
-    "month": 5,
-    "day": 26,
-    "color": "#d4af37",
-    "roman": "#ffffff",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Beda_Venerabilis.jpg",
-    "link": "https://ocidenteortodoxo.blogspot.com/2025/05/sao-beda-o-veneravel.html"
+    "nome": "Santo Agostinho",
+    "data": "08-28",
+    "titulo": "Bispo de Hipona e Doutor da Igreja",
+    "cor_bizantina": "#800080",
+    "cor_romana": "#800080"
   },
   {
-    "title": "Domingo de Pentecostes",
-    "description": "Descida do Espírito Santo sobre os Apóstolos.",
-    "month": 5,
-    "day": 27,
-    "color": "#228B22",
-    "roman": "#ff0000",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Pentecost_Russian_icon.png",
-    "link": "https://ocidenteortodoxo.blogspot.com/2025/05/domingo-de-pentecostes.html"
+    "nome": "São Bento",
+    "data": "07-11",
+    "titulo": "Abade de Montecassino e Patriarca dos Monges do Ocidente",
+    "cor_bizantina": "#964B00",
+    "cor_romana": "#964B00"
   },
   {
-    "title": "São Agostinho de Cantuária",
-    "description": "Primeiro arcebispo de Cantuária, evangelizador da Inglaterra.",
-    "month": 5,
-    "day": 28,
-    "color": "#ffffff",
-    "roman": "#ffffff",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Saint_Augustine_of_Canterbury.jpg",
-    "link": "https://ocidenteortodoxo.blogspot.com/2025/05/sao-agostinho-de-cantuaria.html"
+    "nome": "São Basílio Magno",
+    "data": "01-01",
+    "titulo": "Arcebispo da Cesareia e Doutor da Igreja",
+    "cor_bizantina": "#4169E1",
+    "cor_romana": "#4169E1"
+  },
+  {
+    "nome": "São Gregório Magno",
+    "data": "09-03",
+    "titulo": "Papa de Roma e Doutor da Igreja",
+    "cor_bizantina": "#FFD700",
+    "cor_romana": "#FFD700"
+  },
+  {
+    "nome": "São Leão Magno",
+    "data": "11-10",
+    "titulo": "Papa de Roma e Doutor da Igreja",
+    "cor_bizantina": "#DAA520",
+    "cor_romana": "#DAA520"
+  },
+  {
+    "nome": "São João Crisóstomo",
+    "data": "09-13",
+    "titulo": "Patriarca de Constantinopla e Doutor da Igreja",
+    "cor_bizantina": "#FF8C00",
+    "cor_romana": "#FF8C00"
+  },
+  {
+    "nome": "São Cirilo de Jerusalém",
+    "data": "03-18",
+    "titulo": "Bispo e Doutor da Igreja",
+    "cor_bizantina": "#6495ED",
+    "cor_romana": "#6495ED"
+  },
+  {
+    "nome": "São João Damasceno",
+    "data": "12-04",
+    "titulo": "Monge e Doutor da Igreja",
+    "cor_bizantina": "#8A2BE2",
+    "cor_romana": "#8A2BE2"
+  },
+  {
+    "nome": "São Martinho de Tours",
+    "data": "11-11",
+    "titulo": "Bispo e Confessor",
+    "cor_bizantina": "#00CED1",
+    "cor_romana": "#00CED1"
+  },
+  {
+    "nome": "São Frutuoso de Braga",
+    "data": "01-16",
+    "titulo": "Bispo e Confessor",
+    "cor_bizantina": "#4682B4",
+    "cor_romana": "#4682B4"
+  },
+  {
+    "nome": "São Patrício",
+    "data": "03-17",
+    "titulo": "Bispo e Apóstolo da Irlanda",
+    "cor_bizantina": "#228B22",
+    "cor_romana": "#228B22"
+  },
+  {
+    "nome": "São David do País de Gales",
+    "data": "03-01",
+    "titulo": "Bispo e Padroeiro do País de Gales",
+    "cor_bizantina": "#006400",
+    "cor_romana": "#006400"
+  },
+  {
+    "nome": "São Columba de Iona",
+    "data": "06-09",
+    "titulo": "Abade missionário da Escócia",
+    "cor_bizantina": "#2E8B57",
+    "cor_romana": "#2E8B57"
+  },
+  {
+    "nome": "São Beda, o Venerável",
+    "data": "05-25",
+    "titulo": "Monge e Doutor da Igreja",
+    "cor_bizantina": "#4682B4",
+    "cor_romana": "#4682B4"
+  },
+  {
+    "nome": "São Gregório de Nazianzo",
+    "data": "01-25",
+    "titulo": "Teólogo e Doutor da Igreja",
+    "cor_bizantina": "#BA55D3",
+    "cor_romana": "#BA55D3"
+  },
+  {
+    "nome": "São Hilário de Poitiers",
+    "data": "01-13",
+    "titulo": "Bispo e Doutor da Igreja",
+    "cor_bizantina": "#5F9EA0",
+    "cor_romana": "#5F9EA0"
+  },
+  {
+    "nome": "São Policarpo de Esmirna",
+    "data": "02-23",
+    "titulo": "Bispo e Mártir",
+    "cor_bizantina": "#DC143C",
+    "cor_romana": "#DC143C"
+  },
+  {
+    "nome": "São Justino Mártir",
+    "data": "06-01",
+    "titulo": "Filósofo e Mártir",
+    "cor_bizantina": "#B22222",
+    "cor_romana": "#B22222"
+  },
+  {
+    "nome": "Santos Cosme e Damião",
+    "data": "09-26",
+    "titulo": "Médicos e Mártires",
+    "cor_bizantina": "#FF1493",
+    "cor_romana": "#FF1493"
+  },
+  {
+    "nome": "São Cipriano de Cartago",
+    "data": "09-16",
+    "titulo": "Bispo e Mártir",
+    "cor_bizantina": "#800000",
+    "cor_romana": "#800000"
+  },
+  {
+    "nome": "Santo Atanásio de Alexandria",
+    "data": "05-02",
+    "titulo": "Patriarca e Doutor da Igreja",
+    "cor_bizantina": "#6A5ACD",
+    "cor_romana": "#6A5ACD"
+  },
+  {
+    "nome": "São Cirilo de Alexandria",
+    "data": "06-27",
+    "titulo": "Patriarca e Doutor da Igreja",
+    "cor_bizantina": "#9932CC",
+    "cor_romana": "#9932CC"
+  },
+  {
+    "nome": "São Pedro Crisólogo",
+    "data": "07-30",
+    "titulo": "Bispo e Doutor da Igreja",
+    "cor_bizantina": "#CD5C5C",
+    "cor_romana": "#CD5C5C"
+  },
+  {
+    "nome": "São Dâmaso I",
+    "data": "12-11",
+    "titulo": "Papa e Confessor",
+    "cor_bizantina": "#D2691E",
+    "cor_romana": "#D2691E"
+  },
+  {
+    "nome": "São Leão IX",
+    "data": "04-19",
+    "titulo": "Papa e Confessor",
+    "cor_bizantina": "#A0522D",
+    "cor_romana": "#A0522D"
+  },
+  {
+    "nome": "São Vicente de Lérins",
+    "data": "05-24",
+    "titulo": "Monge e Teólogo",
+    "cor_bizantina": "#708090",
+    "cor_romana": "#708090"
+  },
+  {
+    "nome": "Domingo de Todos os Santos da Península Ibérica",
+    "data": "07-18",
+    "titulo": "Domingo após São Tiago",
+    "cor_bizantina": "#DA70D6",
+    "cor_romana": "#DA70D6"
+  },
+  {
+    "nome": "Nossa Senhora do Pilar",
+    "data": "10-12",
+    "titulo": "Aparição de Maria em Zaragoza",
+    "cor_bizantina": "#ADD8E6",
+    "cor_romana": "#ADD8E6"
+  },
+  {
+    "nome": "São Tiago Maior",
+    "data": "07-25",
+    "titulo": "Apóstolo",
+    "cor_bizantina": "#B8860B",
+    "cor_romana": "#B8860B"
+  },
+  {
+    "nome": "São Tertuliano",
+    "data": "02-01",
+    "titulo": "Presbítero e Apologista",
+    "cor_bizantina": "#556B2F",
+    "cor_romana": "#556B2F"
+  },
+  {
+    "nome": "São Clemente de Roma",
+    "data": "11-23",
+    "titulo": "Papa e Mártir",
+    "cor_bizantina": "#DC143C",
+    "cor_romana": "#DC143C"
+  },
+  {
+    "nome": "São Inácio de Antioquia",
+    "data": "10-17",
+    "titulo": "Bispo e Mártir",
+    "cor_bizantina": "#C71585",
+    "cor_romana": "#C71585"
+  },
+  {
+    "nome": "São Irineu de Lião",
+    "data": "06-28",
+    "titulo": "Bispo e Mártir",
+    "cor_bizantina": "#4682B4",
+    "cor_romana": "#4682B4"
+  },
+  {
+    "nome": "São Máximo, o Confessor",
+    "data": "08-13",
+    "titulo": "Monge e Teólogo",
+    "cor_bizantina": "#483D8B",
+    "cor_romana": "#483D8B"
+  },
+  {
+    "nome": "Santo Isidoro de Sevilha",
+    "data": "04-04",
+    "titulo": "Bispo e Doutor da Igreja",
+    "cor_bizantina": "#8B0000",
+    "cor_romana": "#8B0000"
+  },
+  {
+    "nome": "São Germano de Paris",
+    "data": "05-28",
+    "titulo": "Bispo e Confessor",
+    "cor_bizantina": "#A9A9A9",
+    "cor_romana": "#A9A9A9"
+  },
+  {
+    "nome": "São Severiano de Gábala",
+    "data": "01-22",
+    "titulo": "Bispo e Teólogo",
+    "cor_bizantina": "#00008B",
+    "cor_romana": "#00008B"
+  },
+  {
+    "nome": "São Melito de Sardes",
+    "data": "04-01",
+    "titulo": "Bispo e Escritor",
+    "cor_bizantina": "#4682B4",
+    "cor_romana": "#4682B4"
+  },
+  {
+    "nome": "São João Cassiano",
+    "data": "07-23",
+    "titulo": "Monge e Escritor Espiritual",
+    "cor_bizantina": "#DEB887",
+    "cor_romana": "#DEB887"
+  },
+  {
+    "nome": "São João de Damasco",
+    "data": "12-04",
+    "titulo": "Monge e Doutor da Igreja",
+    "cor_bizantina": "#483D8B",
+    "cor_romana": "#483D8B"
   }
 ]
